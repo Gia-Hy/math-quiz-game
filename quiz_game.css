@@ -1,0 +1,9 @@
+body
+{
+	background: lightblue;
+}
+#player1_name , #player2_name
+{
+	display: inline-block;
+	margin-left: 20px;
+}
